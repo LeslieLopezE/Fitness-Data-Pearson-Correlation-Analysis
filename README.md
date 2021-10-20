@@ -76,6 +76,100 @@ Also check the limitations of correlation coefficient for the Fitness data.;
 
 52 82.78 47.467 10.50 53 170 172
 
+
+## Checking the limitations of the correlation coefficient for the Fitness data
+
+For scatterplots A,B,C,D,E in the above scatterplot matrix – CONDITIONS NOT MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations do not form a linear pattern
+
+For scatterplots F in the above scatterplot matrix - CONDITIONS MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations DO form a linear pattern. The observations tend to DECREASE withthe increase of Age and Maxpulse
+
+For scatterplots G,H,I,J,K in the above scatterplot matrix – CONDITIONS NOT MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations do not form a linear pattern
+
+For scatterplots L,M,N in the above scatterplot matrix - CONDITIONS MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed obs)
+
+3.Absence of outliers: From the plots and data table, this condition is met (HOWEVER, I WOULD LIKE TO TRY REMOVING THE POINTS HIGHLIGHTED IN SCATTERPLOTS M AND N AS THEY APPEAR TO BEOUTLIERS – MORE STUDY OF QUARTILES IS NECESSARY TO DEFINE OUTLIERS IN THE DATA FOR THESE VARIABLES)
+
+4.Linearity: The observations DO form a linear pattern. The observations tend to DECREASE withthe increase of Oxy and Runtime, Oxy and RstPulse , Oxy and Runpulse respectively.
+
+For scatterplots O in the above scatterplot matrix – CONDITIONS NOT MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations do not form a linear pattern
+
+For scatterplots P in the above scatterplot matrix - CONDITIONS MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations DO form a linear pattern. The observations tend to INCREASE withthe increase of runtime and rstpulse
+
+For scatterplots Q,R in the above scatterplot matrix – CONDITIONS NOT MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations do not form a linear pattern
+
+For scatterplots S,T in the above scatterplot matrix – CONDITIONS NOT MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations do not form a linear pattern
+
+For scatterplots U in the above scatterplot matrix - CONDITIONS MET
+
+1.Level of measurement: Both variables are continuous, so this condition is met
+
+2.Related pairs: Each observation have a pair of values, so this condition is met (from printed dataset)
+
+3.Absence of outliers: From the plots and data table, this condition is met
+
+4.Linearity: The observations DO form a linear pattern. The observations tend to INCREASE withthe increase of runpulse and maxpulse
+
+
 ## Findings and conclusions
 
 
