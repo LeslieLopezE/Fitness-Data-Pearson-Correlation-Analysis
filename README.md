@@ -80,7 +80,7 @@ The data used is as follows:
 52 82.78 47.467 10.50 53 170 172
 
 
-## Findings and conclusions
+### Findings and conclusions
 
 1. Variable Age is only associated with Maxpulse since p<5% and r=-0.43, which is considered weak correlation
 
@@ -97,7 +97,7 @@ The data used is as follows:
 
 
 
-## Checking the limitations of the correlation coefficient for the Fitness data
+### Checking the limitations of the correlation coefficient for the Fitness data
 
 #### For scatterplots A,B,C,D,E in the above scatterplot matrix – CONDITIONS NOT MET
 
