@@ -14,6 +14,9 @@ oxy: oxygen consumption
 
 In this exercise, Scatter plots and correlations are generated for the variables and the results are interpreted. The limitations of correlation coefficient for the Fitness data are also checked;
 
+The data used is as follows:
+
+
 44 89.47 44.609 11.37 62 178 182
 
 40 75.07 45.313 10.07 62 185 185
@@ -83,7 +86,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 
 ## Checking the limitations of the correlation coefficient for the Fitness data
 
-*For scatterplots A,B,C,D,E in the above scatterplot matrix – CONDITIONS NOT MET
+#### For scatterplots A,B,C,D,E in the above scatterplot matrix – CONDITIONS NOT MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -94,7 +97,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations do not form a linear pattern
 
 
-*For scatterplots F in the above scatterplot matrix - CONDITIONS MET
+#### For scatterplots F in the above scatterplot matrix - CONDITIONS MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -105,7 +108,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations DO form a linear pattern. The observations tend to DECREASE withthe increase of Age and Maxpulse
 
 
-*For scatterplots G,H,I,J,K in the above scatterplot matrix – CONDITIONS NOT MET
+#### For scatterplots G,H,I,J,K in the above scatterplot matrix – CONDITIONS NOT MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -116,7 +119,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations do not form a linear pattern
 
 
-*For scatterplots L,M,N in the above scatterplot matrix - CONDITIONS MET
+#### For scatterplots L,M,N in the above scatterplot matrix - CONDITIONS MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -127,7 +130,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations DO form a linear pattern. The observations tend to DECREASE withthe increase of Oxy and Runtime, Oxy and RstPulse , Oxy and Runpulse respectively.
 
 
-*For scatterplots O in the above scatterplot matrix – CONDITIONS NOT MET
+#### For scatterplots O in the above scatterplot matrix – CONDITIONS NOT MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -138,7 +141,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations do not form a linear pattern
 
 
-*For scatterplots P in the above scatterplot matrix - CONDITIONS MET
+#### For scatterplots P in the above scatterplot matrix - CONDITIONS MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -149,7 +152,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations DO form a linear pattern. The observations tend to INCREASE withthe increase of runtime and rstpulse
 
 
-*For scatterplots Q,R in the above scatterplot matrix – CONDITIONS NOT MET
+#### For scatterplots Q,R in the above scatterplot matrix – CONDITIONS NOT MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -160,7 +163,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations do not form a linear pattern
 
 
-*For scatterplots S,T in the above scatterplot matrix – CONDITIONS NOT MET
+#### For scatterplots S,T in the above scatterplot matrix – CONDITIONS NOT MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
@@ -171,7 +174,7 @@ In this exercise, Scatter plots and correlations are generated for the variables
 4.Linearity: The observations do not form a linear pattern
 
 
-*For scatterplots U in the above scatterplot matrix - CONDITIONS MET
+#### For scatterplots U in the above scatterplot matrix - CONDITIONS MET
 
 1.Level of measurement: Both variables are continuous, so this condition is met
 
