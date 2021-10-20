@@ -82,6 +82,19 @@ The data used is as follows:
 
 ## Findings and conclusions
 
+1. Variable Age is only associated with Maxpulse since p<5% and r=-0.43, which is considered weak correlation
+
+2. Variable Weight is not associated with any other variable
+
+3. Variable Oxy is associated with runtime, rstpulse and runpulse (p<5%). R is negative, which indicates and inverse correlation. R is strong for Runtime at 0.86, and weak for the other two variables at 0.40 for both
+
+4. Variable Runtime is associated with rstpulse (p,5%). R is positive but weak at 0.45
+
+5. Var Runpulse is associated with Maxpulse (p<5%). R is positive and strong at 0.93
+
+6. The scatter plots shown in the "Results" filealso verify these findings and the associated listed below. The scatterplots show us linearity for all and also the strenght of the relationship (dispersion).
+
+
 
 
 ## Checking the limitations of the correlation coefficient for the Fitness data
@@ -183,8 +196,3 @@ The data used is as follows:
 3.Absence of outliers: From the plots and data table, this condition is met
 
 4.Linearity: The observations DO form a linear pattern. The observations tend to INCREASE withthe increase of runpulse and maxpulse
-
-
-## Findings and conclusions
-
-
